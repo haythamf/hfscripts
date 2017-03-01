@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 NAME[0]="Zara"
 NAME[1]="Qadir"
